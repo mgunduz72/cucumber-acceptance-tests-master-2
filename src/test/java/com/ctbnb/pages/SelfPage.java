@@ -7,5 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 import com.prestashop.utilities.Driver;
 
 public class SelfPage{
-
+public static void main(String[] args) {
+	System.out.println("sample");
+}
 }
